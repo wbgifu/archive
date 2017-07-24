@@ -14,3 +14,7 @@ Wikiの執筆・編集はWordBench岐阜スタッフで行ってます。
 |第3回|2017年9月9日（土） 12:30〜15:00|メディアコスモス あつまるスタジオ|
 |第4回|2017年10月1日 （日）10:30〜13:00|メディアコスモス あつまるスタジオ|
 |第5回|【申請中】2017年11月11日（土） 10:30〜13:00|メディアコスモス あつまるスタジオ|
+
+# WordBench岐阜に参加する方はこちらを必ずご一読ください
+[施設利用上の注意](https://github.com/wbgifu/archive/wiki/Note_on_use)    
+[WordBench岐阜における約束](https://github.com/wbgifu/archive/wiki/Promise)
