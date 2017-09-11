@@ -19,3 +19,4 @@ Wikiの執筆・編集はWordBench岐阜スタッフで行ってます。
 # WordBench岐阜に参加する方はこちらを必ずご一読ください
 * [施設利用上の注意](https://github.com/wbgifu/archive/wiki/Note_on_use)    
 * [WordBench岐阜における約束](https://github.com/wbgifu/archive/wiki/Promise)
+* [LTをする際のルール](https://github.com/wbgifu/archive/wiki/Lp_rules)
